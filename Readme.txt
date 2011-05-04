@@ -50,6 +50,10 @@ Check the Wordpress information for upgrade
 
 == Changelog ==
 
+= 1.0.1 =
+
+* Light bug fixed for access to background option for some Wordpress version
+
 = 1.0 = 
 
 * Added based Wordpress background options.
