@@ -4,7 +4,7 @@ Donate link: http://style-cataclysm.com/kw-modern-advertise
 Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
 Requires at least: 2.6
 Tested up to: 3.1.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Make background clickable. An ultralight way to display modern advertise zone based on background image and with flash effect and more.
 
