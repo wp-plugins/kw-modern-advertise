@@ -1,4 +1,4 @@
-=== Kw Modern Avertise ===
+=== Kw Modern Advertise ===
 Contributors: Laurent (KwarK) Bertrand
 Donate link: http://style-cataclysm.com/kw-modern-advertise
 Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
