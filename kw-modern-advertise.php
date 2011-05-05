@@ -2,7 +2,7 @@
 /**
  * @package kw-modern-advertise
  * @author Laurent Bertrand
- * @version 1.0
+ * @version 1.0.1
  */
  
 /*
