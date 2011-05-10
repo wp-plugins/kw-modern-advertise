@@ -47,9 +47,7 @@
  /** Add custom background for modern advertise option (if exist for your wordpress installation) **/
  
 
-if (function_exists('add_custom_background')) {
 add_custom_background();
-}
 
 
 /** Enable / Disable option for Css and parse css to frontend if enable **/
