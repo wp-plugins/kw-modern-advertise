@@ -47,13 +47,15 @@
  /** Add custom background for modern advertise option (if exist for your wordpress installation) **/
  
 
-add_custom_background();	
+if (function_exists('add_custom_background')) {
+add_custom_background();
+}
 
 
 /** Enable / Disable option for Css and parse css to frontend if enable **/
 
 if ( get_option( 'kw_cssad' ) == true ) {
-	wp_enqueue_style( 'kw_stylead', '/wp-content/plugins/Kw-Modern-Advertise/css/style.css');
+	wp_enqueue_style( 'kw_stylead', '/wp-content/plugins/kw-modern-advertise/css/style.css');
 }
 
 /**<?php kw_add_left_display(); ?> | <?php kw_add_right_display(); ?> | <?php kw_add_top_display(); ?> to diplaying zones in your theme **/
