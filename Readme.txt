@@ -24,6 +24,8 @@ To change your settings please:
 * Chose enable/disable the different zone if you want.
 
 
+Donate to this plugin: http://style-cataclysm.com/kw-modern-advertise
+
 
 == Installation ==
 
