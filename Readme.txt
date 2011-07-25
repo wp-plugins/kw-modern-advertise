@@ -1,16 +1,16 @@
 === Kw Modern Advertise ===
 Contributors: Laurent (KwarK) Bertrand
-Donate link: http://style-cataclysm.com/kw-modern-advertise
+Donate link: http://kwark.allwebtuts.net/
 Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
 Requires at least: 2.6
 Tested up to: 3.1.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 
-Make background clickable. An ultralight way to display modern advertise zone based on background image and with your flash effect and more.
+Make background clickable. An ultralight way to display modern advertise zone based on background image.
 
 == Description ==
 
-A simply way to make background clickable. A easy way to install your modern advertise zone based on background image and make it clickable on your index page or in your theme or whatever you want.
+Install your modern advertise zone based on background image and make it clickable on your index page or in your theme or whatever you want.
 Optionnaly, copy and past your flash effect (if you use this option, make clickable your flash effect directly in the code of your flash effect)
 
 To change your settings please:
@@ -22,7 +22,6 @@ To change your settings please:
 * Choose a few number of attribut to make clickable your new background
 * Optionnal, copy and past your flash affect (Make clickable your flash effect directly in your flash code if you use flash effect)
 * Chose enable/disable the different zone if you want.
-
 
 
 == Installation ==
