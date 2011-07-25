@@ -193,7 +193,21 @@ function kw_advert(){
 		
 ?>
 <?php /**Start Form for advertises**/?>
-
+<div class="postbox" style="position:absolute; top:70px; right:15px; max-width:200px !important; text-align:center !important;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="Q56M572XU8XFG">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+</form>
+<!-- Begin Allopass Checkout-Button Code -->
+<script type="text/javascript" src="https://payment.allopass.com/buy/checkout.apu?ids=261214&idd=1045375&lang=fr"></script>
+<noscript>
+ <a href="https://payment.allopass.com/buy/buy.apu?ids=261214&idd=1045375" style="border:0">
+  <img src="https://payment.allopass.com/static/buy/button/fr/162x56.png" style="border:0" alt="Buy now!" />
+ </a>
+</noscript>
+<!-- End Allopass Checkout-Button Code --></div>
 <div class="wrap">
 <div id="theme-options-wrap">
   <div class="icon32" id="icon-tools"><br />
@@ -202,15 +216,7 @@ function kw_advert(){
   <p>Take control of your theme, with a modern advertising zone with your own specific preferences.</p>
   <p>The simply way is to use a method with a special background. Optionnaly, just html + css and text coding work also.</p>
   <p>This three zones support html + css attribut, flash object and more... View readme text file for places one, two or three zone in your theme.</p>
-  <div style="margin-left:620px; margin-top:69px;">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="WZG8AR3WCN9H8">
-      <input type="image" src="https://www.paypalobjects.com/WEBSCR-640-20110401-1/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110401-1/fr_FR/i/scr/pixel.gif" width="1" height="1">
-    </form>
-  </div>
-  <div style="margin-top:-70px;">
+  <div>
     <form method="post" name="kw_advert" target="_self">
       <div style="Display: block; height: 15px; width: 100%;"></div>
       <table class="form-table">
