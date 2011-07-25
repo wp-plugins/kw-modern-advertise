@@ -1,6 +1,6 @@
 === Kw Modern Advertise ===
 Contributors: Laurent (KwarK) Bertrand
-Donate link: http://style-cataclysm.com/kw-modern-advertise
+Donate link: http://kwark.allwebtuts.net/
 Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
 Requires at least: 2.6
 Tested up to: 3.1.2
