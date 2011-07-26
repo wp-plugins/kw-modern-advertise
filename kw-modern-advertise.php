@@ -2,21 +2,21 @@
 /**
  * @package kw-modern-advertise
  * @author Laurent Bertrand
- * @version 1.0.1
+ * @version 1.0
  */
  
 /*
  Plugin Name: Kw Modern Advertise
- Plugin URI: http://style-cataclysm.com/kw-modern-advertise
+ Plugin URI: http://kwark.allwebtuts.net
  Description: A simply way to make background clickable. A easy way to install your modern advertise zone based on background image and make it clickable on your index page or in your theme or whatever you want.
  Author: Laurent Bertrand
- Version: 1.0.1
+ Version: 1.0
  Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
  
- Author URI: Laurent Bertrand | KwarK on http://www.style-cataclysm.com/
+ Author URI: Laurent (KwarK) Bertrand | http://kwark.allwebtuts.net/
  */
 /**
- * @copyright 2011  Laurent Bertrand  ( email : kwark1(at)style-cataclysm.com )
+ * @copyright 2011  Laurent Bertrand  ( email : kwark(at)allwebtuts.net )
  *
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
