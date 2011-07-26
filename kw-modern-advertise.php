@@ -13,7 +13,7 @@
  Version: 1.0.2
  Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
  
- Author URI: Laurent (KwarK) Bertrand | http://kwark.allwebtuts.net/
+ Author URI: http://kwark.allwebtuts.net
  */
 /**
  * @copyright 2011  Laurent Bertrand  ( email : kwark(at)allwebtuts.net )
