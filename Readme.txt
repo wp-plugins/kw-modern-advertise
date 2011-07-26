@@ -49,6 +49,10 @@ Check the Wordpress information for upgrade
 
 == Changelog ==
 
+= 1.0.2 =
+
+* Light code evolved
+
 = 1.0.1 =
 
 * Light bug fixed for access to background option for some Wordpress version
