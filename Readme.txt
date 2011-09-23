@@ -18,12 +18,12 @@ To change your settings please:
 * Log into Wordpress
 * Open the "Modern advertise" tab (which is located at the "Appaerence menu")
 
-* Import your background with the defaut options background import
+* Import your background manualy or (if you don't have a background image in your theme) with the defaut options background import
 * Choose a few number of attribut to make clickable your new background
 * Optionnal, copy and past your flash affect (Make clickable your flash effect directly in your flash code if you use flash effect)
 * Chose enable/disable the different zone if you want.
 
-
+contact : http://kwark.allwebtuts.net
 
 == Installation ==
 
