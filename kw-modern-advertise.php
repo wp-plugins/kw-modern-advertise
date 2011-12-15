@@ -200,14 +200,7 @@ function kw_advert(){
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form>
-<!-- Begin Allopass Checkout-Button Code -->
-<script type="text/javascript" src="https://payment.allopass.com/buy/checkout.apu?ids=261214&idd=1045375&lang=fr"></script>
-<noscript>
- <a href="https://payment.allopass.com/buy/buy.apu?ids=261214&idd=1045375" style="border:0">
-  <img src="https://payment.allopass.com/static/buy/button/fr/162x56.png" style="border:0" alt="Buy now!" />
- </a>
-</noscript>
-<!-- End Allopass Checkout-Button Code --></div>
+</div>
 <div class="wrap">
 <div id="theme-options-wrap">
   <div class="icon32" id="icon-tools"><br />
