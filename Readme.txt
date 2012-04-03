@@ -29,8 +29,8 @@ To change your settings please:
 
 1. Upload 'Kw-modern-advertise' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Copy and past the short php code <?php if (function_exists('kw_advert_main')) { kw_advert_main(); } ?> at the bottom of your header.php file if you desire to display all advertises zone on all navigation page/article or after the get_header in your index.php file for display just on your index page.(view readme text file for more information)
-4. Or copy and past zone per zone with the short php code (view readme text file for more information) <?php if (function_exists('kw_add_left_display')) { kw_add_left_display(); } ?> <?php if (function_exists('kw_add_right_display')) { kw_add_right_display(); } ?> <?php if (function_exists('kw_add_top_display')) { kw_add_top_display(); } ?>
+3. Copy and past the short php code `<?php if (function_exists('kw_advert_main')) { kw_advert_main(); } ?>` at the bottom of your header.php file if you desire to display all advertises zone on all navigation page/article or after the get_header in your index.php file for display just on your index page.
+4. Or copy and past zone per zone with the short php code `<?php if (function_exists('kw_add_left_display')) { kw_add_left_display(); } ?>` <?php if (function_exists('kw_add_right_display')) { kw_add_right_display(); } ?> <?php if (function_exists('kw_add_top_display')) { kw_add_top_display(); } ?>`
 5. Adjust your settings on the 'Modern advertise tab' wich is located at the appaerence Tab
 
 == Screenshots ==
