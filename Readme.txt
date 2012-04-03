@@ -20,6 +20,7 @@ To change your settings please:
 * Import your background with the defaut options background import
 * Choose a few number of attribut to make clickable your new background
 * Chose enable/disable the different zone if you want.
+* view http://wordpress.org/extend/plugins/kw-modern-advertise/installation/ for more information
 
 
 
