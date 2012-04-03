@@ -19,7 +19,6 @@ To change your settings please:
 
 * Import your background with the defaut options background import
 * Choose a few number of attribut to make clickable your new background
-* Optionnal, copy and past your flash affect (Make clickable your flash effect directly in your flash code if you use flash effect)
 * Chose enable/disable the different zone if you want.
 
 
