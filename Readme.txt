@@ -11,7 +11,6 @@ Make background clickable. An ultralight way to display one modern advertise bac
 == Description ==
 
 This plugin mades your background clickable. This is just a way to install your modern advertise zone based on background image and make it clickable on your index page or in your theme or whatever you want.
-Optionnaly, copy and past your flash effect (if you use this option, make clickable your flash effect directly in the code of your flash effect)
 
 To change your settings please:
 
