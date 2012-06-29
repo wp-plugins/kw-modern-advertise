@@ -3,9 +3,9 @@
 Contributors: KwarK
 Donate link: http://kwark.allwebtuts.net/
 Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
-Requires at least: 2.6
-Tested up to: 3.2.1
-Stable tag: 1.0.2
+Requires at least: 3.0
+Tested up to: 3.4.1
+Stable tag: 1.1
 
 Make background clickable. An ultralight way to display one modern advertise background zone based on background image.
 
