@@ -11,27 +11,26 @@ Make background clickable. An ultralight way to display one modern advertise bac
 
 == Description ==
 
-This plugin mades your background clickable. This is just a way to install your modern advertise zone based on background image and make it clickable on your index page or in your theme or whatever you want.
+This plugin mades your background clickable for your partners programs with background img
 
-To change your settings please:
+* All code review
+* now automatized
+* multi-partners
+* multi-backgrounds img
+* priorities - 1 to 5 +
+* conditional tags based to synchronize with content (is_page, is_category, is_home, is_single)
 
-* Log into Wordpress
-* Open the "Modern advertise" tab (which is located at the "Appaerence menu")
+If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
 
-* Import your background with the defaut options background import
-* Choose a few number of attribut to make clickable your new background
-* Chose enable/disable the different zone if you want.
-* view http://wordpress.org/extend/plugins/kw-modern-advertise/installation/ for more information
 
+`<?php wp_footer(); ?>`
 
 
 == Installation ==
 
 1. Upload 'Kw-modern-advertise' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Copy and past the php code `<?php if (function_exists('kw_advert_main')) { kw_advert_main(); } ?>` at the bottom of your header.php file if you desire to display all the background advertise zone on all navigation page/article or after the get_header in your index.php file for display just on your index page.
-4. Or test copy/past zone per zone with the 3 php code if you have some problem with your theme `<?php if (function_exists('kw_add_left_display')) { kw_add_left_display(); } ?>` `<?php if (function_exists('kw_add_right_display')) { kw_add_right_display(); } ?>` `<?php if (function_exists('kw_add_top_display')) { kw_add_top_display(); } ?>`
-5. Adjust your settings on the 'Modern advertise tab' wich is located at the appaerence Tab
+3. Define the width @ Appaerance > modern advertise. Add your adverts (use the default uploader from wordpress to host your background images or define an external img src-url).
 
 == Screenshots ==
 
@@ -49,6 +48,15 @@ Check the Wordpress information for upgrade
 
 
 == Changelog ==
+
+= 1.1 =
+
+* All code review
+* now automatized
+* multi-partners
+* priorities
+* multi-backgrounds img
+* conditional tags based to synchronize with different content (is_page, is_category, is_home, is_single)
 
 = 1.0.2 =
 
