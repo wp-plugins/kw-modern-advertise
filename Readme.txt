@@ -18,7 +18,7 @@ This plugin mades your background images clickable for your partners programs wi
 * multi-partners links (illimited)
 * now automatized (no-code to add if your theme supports wordpress `wp_footer`)
 * priorities displaying (- 1 to 5 +)
-* conditional tags based to synchronize backgrounds displays with these conditionnal tags (is_page, is_category, is_home, is_single)
+* conditional tags based to synchronize background images displaying with these conditional tags (is_page, is_category, is_home, is_single)
 
 If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
 
