@@ -11,18 +11,16 @@ Make background images clickable with randomize options and priority displaying 
 
 == Description ==
 
-This plugin mades your background images clickable for your partners programs with background img
+This plugin mades your background images clickable for your partners programs with background images
 
 * All code review (previous code is deprecated, now all is automatized, no code to add in your theme)
-* multi-background images
-* multi-partners links
-* now automatized (no-code to add if your theme supports wordpress `wp_footer`
+* multi-background images (illimited)
+* multi-partners links (illimited)
+* now automatized (no-code to add if your theme supports wordpress `wp_footer`)
 * priorities displaying (- 1 to 5 +)
-* conditional tags based to synchronize with content (is_page, is_category, is_home, is_single)
+* conditional tags based to synchronize backgrounds displays with these conditionnal tags (is_page, is_category, is_home, is_single)
 
-If you have some problem to display background img with `is_home` and for your home page
-
-add in your footer.php and before `</body>`: 
+If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
 
 
 `<?php wp_footer(); ?>`
