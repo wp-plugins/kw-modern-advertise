@@ -13,7 +13,7 @@ Make background images clickable with randomize options and priority displaying 
 
 This plugin mades your background images clickable for your partners programs with background img
 
-* All code review
+* All code review (previous code is deprecated, now all is automatized, no code to add in your theme)
 * multi-background images
 * multi-partners links
 * now automatized (no-code to add if your theme supports wordpress `wp_footer`
@@ -32,7 +32,7 @@ add in your footer.php and before `</body>`:
 
 1. Upload 'Kw-modern-advertise' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Define the width @ Appaerance > modern advertise. Add your adverts (use the default uploader from wordpress to host your background images or define an external img src-url).
+3. Define the width @ Appaerance > modern advertise. Add your adverts (use the default uploader from wordpress to host your background images. Define an external img src-url work also).
 
 == Screenshots ==
 
