@@ -2,25 +2,27 @@
 
 Contributors: KwarK
 Donate link: http://kwark.allwebtuts.net/
-Tags: display,modern-advertise-zone,modern-advertise,background-advertise,on-index-page,directly-in-theme,advertise-flash-effect
+Tags: modern-advertise-zone,modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
 Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: 1.1
 
-Make background clickable. An ultralight way to display one modern advertise background zone based on background image.
+Make background images clickable with randomize options and priority displaying option.
 
 == Description ==
 
-This plugin mades your background clickable for your partners programs with background img
+This plugin mades your background images clickable for your partners programs with background img
 
 * All code review
-* now automatized
-* multi-partners
-* multi-backgrounds img
-* priorities - 1 to 5 +
+* multi-background images
+* multi-partners links
+* now automatized (no-code to add if your theme supports wordpress `wp_footer`
+* priorities displaying (- 1 to 5 +)
 * conditional tags based to synchronize with content (is_page, is_category, is_home, is_single)
 
-If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
+If you have some problem to display background img with `is_home` and for your home page
+
+add in your footer.php and before `</body>`: 
 
 
 `<?php wp_footer(); ?>`
