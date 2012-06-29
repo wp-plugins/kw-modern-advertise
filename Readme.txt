@@ -5,7 +5,7 @@ Donate link: http://kwark.allwebtuts.net/
 Tags: modern-advertise-zone,modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Make background images clickable with randomize options and priority displaying option.
 
@@ -48,6 +48,12 @@ Check the Wordpress information for upgrade
 
 
 == Changelog ==
+
+= 1.1.1 =
+
+* Added one col for background color
+* Synch color of the bottom of each background color with each background img
+* dbDelta update added for futur update.
 
 = 1.1 =
 
