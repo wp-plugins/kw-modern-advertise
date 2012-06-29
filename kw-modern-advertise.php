@@ -5,10 +5,10 @@ Plugin URI: http://kwark.allwebtuts.net
 Description: A simply way to make background image clickable. Now with multi-partners, multi-adverts, priority and filter based on is single, is category, is page, is home/is front page.
 Author: Laurent Bertrand
 Version: 1.1.1
-Tags: modern-advertise-zone,modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
- 
- Author URI: http://kwark.allwebtuts.net
- */
+Tags: modern-advertise-zone, modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
+Author URI: http://kwark.allwebtuts.net
+*/
+
 /**
  * @copyright 2011  Laurent Bertrand  ( email : kwark(at)allwebtuts.net )
  *
