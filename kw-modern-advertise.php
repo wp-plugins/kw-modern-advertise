@@ -446,7 +446,7 @@ function kw_advert(){
 			<?php _e('width of your current theme', 'kma'); ?>
         </label></td>
 		<td class="kma-admin-td"><label><input type="text" style="width:125px;" maxlength="55" value="<?php echo get_option('kma_original_theme'); ?>" name="kma_original_theme" id="kma_original_theme" class="regular-text" />px</label>
-		  <span class="kma_help" title="<?php _e('Complete this input with the width of your current theme', 'kma'); ?>"></span><br /></td>
+		  <span class="kma_help" title="<?php _e('Complete this input with the width of the main div content of your current theme', 'kma'); ?>"></span><br /></td>
 	  </tr>
       <tr valign="top">
 		<td scope="row"><label>
