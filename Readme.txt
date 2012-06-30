@@ -20,6 +20,7 @@ This plugin mades your background images clickable for your partners programs wi
 * multi-partners links (illimited)
 * now automatized (no-code to add if your theme supports wordpress `wp_footer`)
 * priorities displaying (- 1 to 5 +)
+* Option fixed & Resize or scroll for background images
 * conditional tags based to synchronize background images displaying with these conditional tags (is_page, is_category, is_home, is_single)
 
 If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
@@ -55,6 +56,7 @@ Check the Wordpress information for upgrade
 
 * Update with px value in admin in replacement of percent
 * Debug/update css with px value for div overlapping
+* added fixed or scroll options in administration for background images
 
 = 1.1.1 =
 
