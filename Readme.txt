@@ -1,0 +1,84 @@
+=== Kw Modern Advertise ===
+
+Contributors: KwarK
+Donate link: http://kwark.allwebtuts.net/
+Tags: modern-advertise-zone,modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
+Requires at least: 3.0
+Tested up to: 3.4.1
+Stable tag: 1.1.2
+
+Make background images clickable with randomize options and priority displaying option.
+
+== Description ==
+
+This plugin mades your background images clickable for your partners programs with background images
+
+* All code review (previous code is deprecated, now all is automatized, no code to add in your theme)
+* multi-background images (illimited)
+* multi-partners links (illimited)
+* now automatized (no-code to add if your theme supports wordpress `wp_footer`)
+* priorities displaying (- 1 to 5 +)
+* conditional tags based to synchronize background images displaying with these conditional tags (is_page, is_category, is_home, is_single)
+
+If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
+
+
+`<?php wp_footer(); ?>`
+
+
+== Installation ==
+
+1. Upload 'Kw-modern-advertise' to the '/wp-content/plugins/' directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Define the width @ Appaerance > modern advertise. Add your adverts (use the default uploader from wordpress to host your background images. Define an external img src-url work also).
+
+== Screenshots ==
+
+1. Backend Screen for kw-modern-advertise
+
+
+== Frequently Asked Questions ==
+
+View forum support on Wordpress for more information
+
+
+== Upgrade Notice ==
+
+Check the Wordpress information for upgrade
+
+
+== Changelog ==
+
+= 1.1.2 =
+
+* Update with px value in admin in replacement of percent
+* Debug/update css with px value for div overlapping
+
+= 1.1.1 =
+
+* Added one col for background color
+* Synch color of the bottom of each background color with each background img
+* dbDelta update added for futur update.
+
+= 1.1 =
+
+* All code review
+* now automatized
+* multi-partners
+* priorities
+* multi-backgrounds img
+* conditional tags based to synchronize with different content (is_page, is_category, is_home, is_single)
+
+= 1.0.2 =
+
+* Light code evolved
+
+= 1.0.1 =
+
+* Light bug fixed for access to background option for some Wordpress version
+
+= 1.0 = 
+
+* Added based Wordpress background options.
+* Added Enable/Disable based css
+
