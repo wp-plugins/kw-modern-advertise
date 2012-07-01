@@ -229,7 +229,7 @@ function kma_filter_content($content)
 						#cliczone-advert-right {
 							background-color: transparent !important;
 							width: '.$kma_width.'px;
-							height: 1000px;
+							height: 1600px;
 							margin: 30px -'.$kma_width.'px 0 0;
 							float: right;
 							border: none;
