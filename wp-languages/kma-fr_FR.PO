@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kma\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-21 16:25+0100\n"
+"PO-Revision-Date: 2012-07-21 16:29+0100\n"
+"Last-Translator: Laurent (KwarK) Bertrand <kwark@allwebtuts.net>\n"
+"Language-Team: Laurent (KwarK) Bertrand <kwark@allwebtuts.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: kw-modern-advertise.php:476
+msgid "Modern advertise - General configuration"
+msgstr "Modern advertise - General configuration"
+
+#: kw-modern-advertise.php:480
+#: kw-modern-advertise.php:711
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: kw-modern-advertise.php:483
+msgid "Add one modern advert"
+msgstr "Ajouter une nouvelle annonce"
+
+#: kw-modern-advertise.php:486
+msgid "add background url"
+msgstr "ajouter une url d'arrière plan"
+
+#: kw-modern-advertise.php:489
+msgid "Complete this input with the background src link"
+msgstr "Compéter cet input avec le lien src du background"
+
+#: kw-modern-advertise.php:493
+msgid "add partner url"
+msgstr "ajouter l'url partenaire"
+
+#: kw-modern-advertise.php:496
+msgid "Complete this input with the partner link linked to this background"
+msgstr "Complétez cet input avec le lien partenaire lié à cet arrière plan"
+
+#: kw-modern-advertise.php:500
+msgid "Choose one category"
+msgstr "Choisir une catégorie"
+
+#: kw-modern-advertise.php:508
+msgid "Choose where this background partner program is displayed"
+msgstr "Choisir où ce programme partenaire via ce background sera affiché"
+
+#: kw-modern-advertise.php:512
+msgid "Priority display"
+msgstr "Priorité d'affichage"
+
+#: kw-modern-advertise.php:520
+msgid "Choose priority display - 1 2 3 4 5 +"
+msgstr "Choisir une priorité d'affichage  - 1 2 3 4 5 +"
+
+#: kw-modern-advertise.php:524
+msgid "Background color"
+msgstr "Background color"
+
+#: kw-modern-advertise.php:527
+msgid "Choose background colorization (6hex) to synch bottom of background img and background color"
+msgstr "Choose background colorization (6hex) to synch bottom of background img and background color"
+
+#: kw-modern-advertise.php:532
+msgid "Static options"
+msgstr "Options statiques"
+
+#: kw-modern-advertise.php:535
+msgid "width of left & right clickable zones"
+msgstr "largeur des zones gauches et droites"
+
+#: kw-modern-advertise.php:538
+msgid "Complete this input with the width of your choice for the left and right clickable zones in pixel"
+msgstr "Complétez cet input avec la largeur de votre choix pour les zones clickable (en pixel)"
+
+#: kw-modern-advertise.php:542
+msgid "width of your current theme"
+msgstr "largeur de votre thème actuel"
+
+#: kw-modern-advertise.php:545
+msgid "Complete this input with the width of the main div content of your current theme"
+msgstr "Complétez cet input avec la largeur de votre container principal de votre thème actuel"
+
+#: kw-modern-advertise.php:549
+msgid "background fixed or scroll"
+msgstr "background fixe ou scroll"
+
+#: kw-modern-advertise.php:554
+msgid "Select scrolling background or fixed it"
+msgstr "Select scrolling background ou fixe it"
+
+#: kw-modern-advertise.php:558
+msgid "Choose a cache time"
+msgstr "Choisir un temps de cache"
+
+#: kw-modern-advertise.php:567
+msgid "Cache is expressed in minutes before expiration"
+msgstr "Cache est exprimé en minutes avant expiration"
+
+#: kw-modern-advertise.php:567
+msgid "Consider Off as temporary Off. Choose Off only when you makes setting changes to see the result more quickly. After settings, choose a cache time."
+msgstr "Considérez Off comme un Off temporaire. Choisissez Off seulement quand vous éffectuez des changements d'options, pour voir plus rapidement le résultat. Après les réglages, choisissez un temps de cache."
+
+#: kw-modern-advertise.php:663
+msgid "Delete one background in "
+msgstr "Delete un background dans "
+
+#: kw-modern-advertise.php:667
+msgid "Delete one ?"
+msgstr "Delete un ?"
+
+#: kw-modern-advertise.php:678
+msgid "Select one to delete and clic on save changes button to delete this current background"
+msgstr "Selectionnez un à éffacer et cliquez sur le boutton save changes pour l'éffacer définitivement"
+
