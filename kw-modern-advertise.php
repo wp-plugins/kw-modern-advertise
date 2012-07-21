@@ -45,15 +45,6 @@ if(is_admin())
 	wp_enqueue_style('kma_admincss');
 	wp_register_script('kma_pagination', plugins_url('js/JPages.min.js', __FILE__));
 }
-/*wp_register_script('kma_frontendjs', plugins_url('js/resize.js', __FILE__), array('jquery'));*/
-
-/*add_filter('body_class','kma_body_class_name_cheat');
-function kma_body_class_name_cheat($classes) {
-	// add 'class-name' to the $classes array
-	$classes[] = 'kma-background';
-	// return the $classes array
-	return $classes;
-}*/
 
 //For is_home
 add_action( 'wp_footer', 'kma_is_home');
