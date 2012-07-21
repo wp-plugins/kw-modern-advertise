@@ -2,7 +2,7 @@
 
 Contributors: KwarK
 Donate link: http://kwark.allwebtuts.net/
-Tags: modern-advertise-zone,modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
+Tags: modern-advertise-zone, background, partner, advertiser, modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
 Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: 1.2.0
