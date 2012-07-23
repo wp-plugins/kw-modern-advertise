@@ -25,12 +25,10 @@ This plugin mades your background images clickable for your partners programs wi
 * cache system since 1.2.0 version
 * conditional tags options to synchronize background in these conditional tags
 
-conditional tags
-
-* is_page
-* is_category
-* is_home
-* is_single
+`is_page`
+`is_category`
+`is_home`
+`is_single`
 
 If you have some problem to display background img with `is_home` and for your home page, add in your footer.php and before `</body>`: 
 
