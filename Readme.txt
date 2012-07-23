@@ -23,7 +23,9 @@ This plugin mades your background images clickable for your partners programs wi
 * priorities displaying `- 1 to 5 +`
 * Option fixed & Resize or scroll for background images
 * cache system since 1.2.0 version
-* conditional tags options to synchronize background in these conditional tags 
+* conditional tags options to synchronize background in these conditional tags
+
+conditional tags
 
 * is_page
 * is_category
