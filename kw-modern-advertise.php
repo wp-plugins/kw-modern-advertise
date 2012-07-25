@@ -109,7 +109,7 @@ function kma_is_home()
 							#cliczone-advert-right {
 								background-color: transparent !important;
 								width: '.$kma_width.'px;
-								height: 1000px;
+								height: 1600px; /*Current max 2440x1600*/
 								margin: 30px -'.$kma_width.'px 0 0;
 								float: right;
 								border: none;
