@@ -117,7 +117,7 @@ function kma_is_home()
 							
 							#kma-wrapper{
 								background-color: transparent !important;
-								margin: 0 auto 1600px;
+								margin: 0 auto;
 								width: '.$kma_original_theme.'px;
 								height: 0px;
 								position: fixed;
