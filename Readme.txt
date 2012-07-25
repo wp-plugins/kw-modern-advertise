@@ -5,7 +5,7 @@ Donate link: http://kwark.allwebtuts.net/
 Tags: modern-advertise-zone, background, partner, advertiser, modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 
 
 Make background images clickable with randomize options and priority displaying option.
@@ -23,7 +23,7 @@ This plugin mades your background images clickable for your partners programs wi
 * priorities displaying `- 1 to 5 +`
 * Option fixed & Resize or scroll for background images
 * cache system since 1.2.0 version
-* conditional tags options to synchronize background in these conditional tags
+* based on conditional tags to synchronize background with these conditional tags
 
 `is_page`
 `is_category`
@@ -44,7 +44,7 @@ If you have some problem to display background img with `is_home` and for your h
 
 == Screenshots ==
 
-1. Backend Screen for kw-modern-advertise
+1. no screenshot
 
 
 == Frequently Asked Questions ==
@@ -59,9 +59,14 @@ Check the Wordpress information for upgrade
 
 == Changelog ==
 
+= 1.2.2 =
+
+* Simple improves for frontend
+* clarification of the administration
+
 = 1.2.1 =
 
-* Simple fixes improves in administration
+* Simple improves for administration
 
 = 1.2.0 =
 
