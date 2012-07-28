@@ -5,7 +5,7 @@ Donate link: http://kwark.allwebtuts.net/
 Tags: modern-advertise-zone, background, partner, advertiser, modern-advertise, adverts, background-adverts, background-advertise, wordpress, plugin
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 
 
 Make background images clickable with randomize options and priority displaying option.
@@ -58,6 +58,11 @@ Check the Wordpress information for upgrade
 
 
 == Changelog ==
+
+= 1.2.3 =
+
+* Fix pagination in administration
+* Fix maxlengh 55 char too short in administration (now 255 char)
 
 = 1.2.2 =
 
