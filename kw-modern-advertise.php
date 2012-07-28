@@ -336,7 +336,7 @@ function kma_filter_content($content)
 		
 		file_put_contents($cache, $temp);
 		
-		$content .= $special_content;
+		echo $special_content;
 	}
 	
 	return $content;
