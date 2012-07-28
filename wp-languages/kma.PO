@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kma\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-25 15:47+0100\n"
+"PO-Revision-Date: 2012-07-25 15:47+0100\n"
+"Last-Translator: Laurent (KwarK) Bertrand <kwark@allwebtuts.net>\n"
+"Language-Team: Laurent (KwarK) Bertrand <kwark@allwebtuts.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: kw-modern-advertise.php:465
+msgid "Modern advertise - General configuration"
+msgstr ""
+
+#: kw-modern-advertise.php:469
+#: kw-modern-advertise.php:702
+msgid "Save Changes"
+msgstr ""
+
+#: kw-modern-advertise.php:472
+msgid "Add one modern advert"
+msgstr ""
+
+#: kw-modern-advertise.php:475
+msgid "add background url"
+msgstr ""
+
+#: kw-modern-advertise.php:478
+msgid "Complete this input with the background src link"
+msgstr ""
+
+#: kw-modern-advertise.php:482
+msgid "add partner url"
+msgstr ""
+
+#: kw-modern-advertise.php:485
+msgid "Complete this input with the partner link linked to this background"
+msgstr ""
+
+#: kw-modern-advertise.php:489
+msgid "Choose one category"
+msgstr ""
+
+#: kw-modern-advertise.php:497
+msgid "Choose where this background partner program is displayed"
+msgstr ""
+
+#: kw-modern-advertise.php:501
+msgid "Priority display"
+msgstr ""
+
+#: kw-modern-advertise.php:509
+msgid "Choose priority display - 1 2 3 4 5 +"
+msgstr ""
+
+#: kw-modern-advertise.php:513
+msgid "Background color"
+msgstr ""
+
+#: kw-modern-advertise.php:516
+msgid "Choose background colorization (6hex) to synch bottom of background img and background color"
+msgstr ""
+
+#: kw-modern-advertise.php:521
+msgid "Static options"
+msgstr ""
+
+#: kw-modern-advertise.php:524
+msgid "width of left & right clickable zones"
+msgstr ""
+
+#: kw-modern-advertise.php:527
+msgid "Complete this input with the width of your choice for the left and right clickable zones in pixel"
+msgstr ""
+
+#: kw-modern-advertise.php:531
+msgid "width of your current theme"
+msgstr ""
+
+#: kw-modern-advertise.php:534
+msgid "Complete this input with the width of the main div content of your current theme"
+msgstr ""
+
+#: kw-modern-advertise.php:538
+msgid "background fixed or scroll"
+msgstr ""
+
+#: kw-modern-advertise.php:543
+msgid "Select scrolling background or fixed it"
+msgstr ""
+
+#: kw-modern-advertise.php:547
+msgid "Choose a cache time"
+msgstr ""
+
+#: kw-modern-advertise.php:556
+msgid "Cache is expressed in minutes before expiration"
+msgstr ""
+
+#: kw-modern-advertise.php:556
+msgid "Consider Off as temporary Off. Choose Off only when you makes setting changes to see the result more quickly. After settings, choose a cache time."
+msgstr ""
+
+#: kw-modern-advertise.php:654
+msgid "Delete one background in "
+msgstr ""
+
+#: kw-modern-advertise.php:658
+msgid "Delete one ?"
+msgstr ""
+
+#: kw-modern-advertise.php:669
+msgid "Select one to delete and clic on save changes button to delete this current background"
+msgstr ""
+

@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+span.kma_help {height:16px; width:16px; background:url(../images/help.gif) no-repeat; float:right; cursor:help} .kma-admin-td{text-align:right} .kma-admin-td span{margin-left:200px}
+.kma-holder-is_page, .kma-holder-is_category, .kma-holder-is_single, .kma-holder-is_home{
+	margin: 0;
+}
+
+.kma-holder-is_page a, .kma-holder-is_category a, .kma-holder-is_single a, .kma-holder-is_home a{
+	width: auto;
+	padding:1px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #EBEBEB;
+	height: auto;
+	text-decoration: none;
+	margin: 2px;
+	background: #FFF;
+	-webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+	background-color: #F8F8F8;
+	background-image: -webkit-linear-gradient(top, #F8F8F8, #F1F1F1);
+	background-image: -moz-linear-gradient(top, #F8F8F8, #F1F1F1);
+	background-image: -ms-linear-gradient(top, #F8F8F8, #F1F1F1);
+	background-image: -o-linear-gradient(top, #F8F8F8, #F1F1F1);
+	background-image: linear-gradient(top, #F8F8F8, #F1F1F1);
+}
+
+.kma-holder-is_page a:hover, .kma-holder-is_category a:hover, .kma-holder-is_single a:hover, .kma-holder-is_home a:hover{
+	border: 1px solid #C6C6C6;
+	cursor: pointer;
+}
+
+.kma-holder-is_page a.jp-previous, .kma-holder-is_home a.jp-previous, .kma-holder-is_category a.jp-previous, .kma-holder-is_single a.jp-previous { margin-right: 5px; }
+.kma-holder-is_single a.jp-next, .kma-holder-is_home a.jp-next, .kma-holder-is_category a.jp-next, .kma-holder-is_page a.jp-next{ margin-left: 5px; }
+
+.kma-holder-is_home a.jp-current, .kma-holder-is_category a.jp-current, .kma-holder-is_single a.jp-current, .kma-holder-is_page a.jp-current, a.jp-current:hover{ 
+	color: #FF4242;
+	font-weight: bold;
+}
+
+.kma-holder-is_home a.jp-disable, .kma-holder-is_category a.jp-disable, .kma-holder-is_single a.jp-disable, .kma-holder-is_page a.jp-disable, a.jp-disabled:hover {
+	color: #bbb;
+}
+
+kma-holder-is_home a.jp-current, .kma-holder-is_category a.jp-current, .kma-holder-is_single a.jp-current, .kma-holder-is_page a.jp-current, a.jp-current:hover,
+.kma-holder-is_home a.jp-disable, .kma-holder-is_category a.jp-disable, .kma-holder-is_single a.jp-disable, .kma-holder-is_page a.jp-disable, a.jp-disabled:hover {
+	cursor: default; 
+	background: none;
+}
+
+kma-holder-is_home span, .kma-holder-is_category span, .kma-holder-is_single span, .kma-holder-is_page span{ margin: 2px; }
