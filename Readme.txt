@@ -10,10 +10,17 @@ Stable tag: 1.2.3
 
 Make background images clickable with randomize options and priority displaying option.
 
-
 == Description ==
 
 This plugin mades your background images clickable for your partners programs with background images
+
+You may view how the plugin works here http://advertise.allwebtuts.net (I have added a white opacity voluntarily)
+
+Currently the plugin works for centered theme. To retrieve the width value of your main container, visit your site and hit F12, uses this tool to retrieve the width of your main container (the centered part of your site).
+
+I don't give assistance for this tool, Google is your friend for a "how to use"
+
+For other kind of theme, css adpatative works (directly in its php file) is necessary.
 
 * All code review (previous version of 1.1 are deprecated)
 * illimited background images
