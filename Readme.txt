@@ -10,6 +10,10 @@ Stable tag: 1.2.3
 
 Make background images clickable with randomize options and priority displaying option.
 
+You may view how the plugin works here http://advertise.allwebtuts.net (I have added a white opacity voluntarily)
+
+* Currently the plugin works for centered theme.
+* For other kind of theme, css adpatative works (directly in its php file) is necessary.
 
 == Description ==
 
