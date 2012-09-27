@@ -243,8 +243,6 @@ function kma_filter_content($content)
 	}	
 	
 	if(is_page())
-
-
 	{
 		$cache = $kma_plugin_path . 'cache/temp_'.$blog_id.'_is_page_'.$priority.'.html';
 			
